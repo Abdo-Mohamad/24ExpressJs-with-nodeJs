@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "24expressjs-with-nodejs": "file:",
     "express": "^4.21.0"
   },
-  "devDependencies": {},
   "description": ""
 }
